@@ -5,3 +5,4 @@ The server is responsible for communication with the [Hacker News API](https://g
 ```bash
 go run main.go
 ```
+Coded by jokerhack 
